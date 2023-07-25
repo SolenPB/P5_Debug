@@ -26,10 +26,8 @@ body {
 	font-size: 14px;
 	margin-bottom: 0;
 }
-.nav li {
-	padding-inline: 10px;
-}
 .nav a {
+	padding-inline: 10px;
 	text-decoration: none;
 	color: #000
 }
@@ -94,7 +92,7 @@ body {
 .nav-item {
 	border: none;
 }
-.nav-pills .nav-link.active, .nav-link.active-tag, .nav-pills .show > .nav-link {
+.nav-pills .nav-link.active-tag, .nav-pills .show > .nav-link {
 	color: #000;
 	background-color: #BEB45A;
 	border-radius:0 ;
@@ -115,7 +113,6 @@ body {
 	content: "";
 	display: block;
 	padding-bottom: 100%;
-
 }
 .gallery-item {
 	position: absolute;
